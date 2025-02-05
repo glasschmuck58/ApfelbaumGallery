@@ -1,4 +1,4 @@
-# ApfelbaumGallery
+# Appletree Gallery
 
 A simple Wordpress gallery. The images in the gallery are hosted on Pinterest.  This gallery is a simple Wordpress plugin. The integration of the gallery in Wordpress is done with a shortcode. The images are displayed in Wordpress. The viewer has the possibility to contact the operator of the homepage with questions and information. Contact via Whatsapp is preferred.
 
@@ -13,6 +13,3 @@ A simple Wordpress gallery. The images in the gallery are hosted on Pinterest.  
 + Additional information is added from a MySQL table.
 + A filter function distinguishes between product images and advertising images
 + A later development to a very simple online shop is possible.
-
-
-Translated with DeepL.com (free version)
