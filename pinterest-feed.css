@@ -1,0 +1,35 @@
+.pinterest-feed {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.pinterest-pin {
+    width: 200px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pinterest-pin img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.pinterest-pin p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+}
+
+.image-container {
+    display: flex;
+    gap: 10px; /* Optional: Abstand zwischen den Bildern */
+}
+
+.image-container img {
+    max-width: 50px; /* Optional: Größe der Bilder anpassen */
+    height: auto;
+    float: left;
+}
